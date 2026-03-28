@@ -57,7 +57,7 @@ export default function LandingPage() {
       description="Experience the warmth of Tibetan hospitality and the vibrant spices of India. Join us for an intimate dining experience you won't soon forget."
       mediaItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/woman-arranging-dishware-table-restaurant_23-2147936226.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/woman-arranging-dishware-table-restaurant_23-2147936226.jpg?_wi=1",
           imageAlt: "cozy authentic tibetan restaurant interior",
         },
         {
@@ -144,7 +144,7 @@ export default function LandingPage() {
           quote: "The staff were wonderfully smiling and personable. Made the meal feel special!",
           name: "Sarah J.",
           role: "Visitor",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-people-clinking-glasses_23-2149295545.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-people-clinking-glasses_23-2149295545.jpg?_wi=1",
           imageAlt: "happy customer",
         },
         {
@@ -180,7 +180,7 @@ export default function LandingPage() {
           quote: "The best Indian and Tibetan fusion I have ever had. Highly recommend!",
           name: "Alice M.",
           role: "Food Blogger",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-people-clinking-glasses_23-2149295545.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-people-clinking-glasses_23-2149295545.jpg?_wi=2",
           imageAlt: "smiling diner",
         },
       ]}
@@ -243,7 +243,7 @@ export default function LandingPage() {
 
   <div id="footer" data-section="footer">
       <FooterMedia
-      imageSrc="http://img.b2bpic.net/free-photo/woman-arranging-dishware-table-restaurant_23-2147936226.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/woman-arranging-dishware-table-restaurant_23-2147936226.jpg?_wi=2"
       columns={[
         {
           title: "Explore",
