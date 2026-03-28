@@ -46,7 +46,7 @@ export default function LandingPage() {
             title="Authentic Flavors in the Heart of Cooperstown"
             description="Experience the warmth of Tibetan hospitality and the vibrant spices of India. Join us for an intimate dining experience you won't soon forget."
             mediaItems={[
-              { imageSrc: "http://img.b2bpic.net/free-photo/woman-arranging-dishware-table-restaurant_23-2147936226.jpg", imageAlt: "cozy authentic tibetan restaurant interior" },
+              { imageSrc: "http://img.b2bpic.net/free-photo/woman-arranging-dishware-table-restaurant_23-2147936226.jpg?_wi=1", imageAlt: "cozy authentic tibetan restaurant interior" },
               { imageSrc: "http://img.b2bpic.net/free-photo/bottom-view-stuffed-eggplant-rolls-oval-plate-different-spices-grey-background_140725-108202.jpg", imageAlt: "steaming bowl of butter chicken" },
               { imageSrc: "http://img.b2bpic.net/free-photo/delicious-assortment-traditional-roti_23-2149033987.jpg", imageAlt: "fresh garlic naan on wooden platter" },
               { imageSrc: "http://img.b2bpic.net/free-photo/tasty-dumplings-plate-top-view_23-2148249206.jpg", imageAlt: "momos tibetan dumplings on plate" },
@@ -92,11 +92,11 @@ export default function LandingPage() {
             textboxLayout="split"
             useInvertedBackground={false}
             testimonials={[
-              { id: "t1", title: "Wonderful experience", quote: "The staff were wonderfully smiling and personable. Made the meal feel special!", name: "Sarah J.", role: "Visitor", imageSrc: "http://img.b2bpic.net/free-photo/close-up-people-clinking-glasses_23-2149295545.jpg", imageAlt: "happy customer" },
+              { id: "t1", title: "Wonderful experience", quote: "The staff were wonderfully smiling and personable. Made the meal feel special!", name: "Sarah J.", role: "Visitor", imageSrc: "http://img.b2bpic.net/free-photo/close-up-people-clinking-glasses_23-2149295545.jpg?_wi=1", imageAlt: "happy customer" },
               { id: "t2", title: "Perfect spot", quote: "Cozy, cute, and authentic. A perfect escape on a cold night.", name: "Michael C.", role: "Local", imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-smiley-woman-restaurant_23-2149250080.jpg", imageAlt: "happy diner" },
               { id: "t3", title: "Incredible lunch value", quote: "The executive lunch is a steal! Two courses for such a great price.", name: "Emily R.", role: "Hall of Fame Visitor", imageSrc: "http://img.b2bpic.net/free-photo/informal-talk-with-best-friends-restaurant-warm-summer-day_8353-9702.jpg", imageAlt: "satisfied customer" },
               { id: "t4", title: "Warm atmosphere", quote: "Really authentic food. The garlic naan arrived steaming hot!", name: "David K.", role: "Foodie", imageSrc: "http://img.b2bpic.net/free-photo/life-after-covid-freedom-concept_23-2149068501.jpg", imageAlt: "happy diner" },
-              { id: "t5", title: "Five stars", quote: "The best Indian and Tibetan fusion I have ever had. Highly recommend!", name: "Alice M.", role: "Food Blogger", imageSrc: "http://img.b2bpic.net/free-photo/close-up-people-clinking-glasses_23-2149295545.jpg", imageAlt: "smiling diner" }
+              { id: "t5", title: "Five stars", quote: "The best Indian and Tibetan fusion I have ever had. Highly recommend!", name: "Alice M.", role: "Food Blogger", imageSrc: "http://img.b2bpic.net/free-photo/close-up-people-clinking-glasses_23-2149295545.jpg?_wi=2", imageAlt: "smiling diner" }
             ]}
             title="What Our Guests Say"
             description="Join the many travelers and locals who have found a cozy spot in Cooperstown."
@@ -134,7 +134,7 @@ export default function LandingPage() {
 
         <div id="footer" data-section="footer">
           <FooterMedia
-            imageSrc="http://img.b2bpic.net/free-photo/woman-arranging-dishware-table-restaurant_23-2147936226.jpg"
+            imageSrc="http://img.b2bpic.net/free-photo/woman-arranging-dishware-table-restaurant_23-2147936226.jpg?_wi=2"
             columns={[
               { title: "Explore", items: [{ label: "Menu", href: "#menu" }, { label: "About Us", href: "#about" }] },
               { title: "Connect", items: [{ label: "Reviews", href: "#testimonials" }, { label: "Reservations", href: "tel:5550123" }] }
